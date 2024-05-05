@@ -1,0 +1,52 @@
+Group 1-
+[  ] Hammad khan
+[  ] Aditya singh
+[  ] Mayank singh
+[  ] Aarav raghuvanshi
+[  ] Aditya sharan
+[  ] Tejasvini singh
+[  ] Riddhi 
+
+Group 2 -
+[  ] Yasashvi agrahri
+[  ] Ujjwal 
+[  ] Aditya maurya
+[  ] Arpit jaiswal
+[  ] Ayushi singh
+[  ] Rajat sharma
+[  ] Aastha Singh 
+
+Group 3 -
+[  ] Jayesh 
+[  ] Ayush singh
+[  ] Prithvi singh 
+[  ] Mohammad Arsalan 
+[  ] Rana harshvarshan
+[  ] Khushi singh
+[  ] Ayushi baranwal
+
+Group 4 -
+[  ] Tanvi singh
+[  ] Shazi alam
+[  ] Amina ansari
+[  ] Anaya devgan 
+[  ] Yatendra
+[  ] Sudhanshu mishra
+[  ] Pranjal 
+
+Group 5-
+[  ] Anshuman
+[  ] Susan
+[  ] Garima maurya 
+[  ] Mehak sanyal 
+[  ] Anshika gupta 
+[  ] Anshika Singh 
+[  ] Arsalan
+Group 6-
+[  ] Krishna singh 
+[  ] Nitin pandey
+[  ] Priyanshi 
+[  ] Aditi singh
+[  ] Sresht
+[  ] Aman 
+[  ] Niti singh
